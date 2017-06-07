@@ -1,0 +1,145 @@
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\VBCSCompiler.exe
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\csc.exe
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\vbc.exe
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\GigHub2.dll.config
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\GigHub2.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\GigHub2.pdb
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Antlr3.Runtime.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\EntityFramework.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\EntityFramework.SqlServer.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Google.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Newtonsoft.Json.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Owin.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Helpers.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Mvc.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Optimization.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Razor.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.Deployment.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.Razor.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\WebGrease.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Helpers.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Mvc.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Optimization.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.Razor.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.Deployment.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\System.Web.WebPages.Razor.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Antlr3.Runtime.pdb
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Newtonsoft.Json.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\EntityFramework.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\EntityFramework.SqlServer.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Google.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.csprojResolveAssemblyReference.cache
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.Migrations.InitialModel.resources
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.Migrations.PopulateGenresTable.resources
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.csproj.GenerateResource.Cache
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.dll
+c:\users\dmitriy\documents\visual studio 2015\Projects\GigHub2\GigHub2\obj\Debug\GigHub2.pdb
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\csc.exe
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\vbc.exe
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\GigHub2.dll.config
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\GigHub2.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\GigHub2.pdb
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Antlr3.Runtime.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\EntityFramework.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\EntityFramework.SqlServer.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Newtonsoft.Json.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Owin.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Helpers.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Mvc.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Optimization.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Razor.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\WebGrease.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Helpers.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Mvc.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Optimization.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.Razor.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Antlr3.Runtime.pdb
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Newtonsoft.Json.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\EntityFramework.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\EntityFramework.SqlServer.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.csprojResolveAssemblyReference.cache
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.Migrations.InitialModel.resources
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.Migrations.PopulateGenresTable.resources
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.csproj.GenerateResource.Cache
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.dll
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.pdb
+C:\Users\Dmitriy\Source\Repos\GigHub\GigHub2\GigHub2\obj\Debug\GigHub2.Migrations.AddForeignKeyPropertiesToGig.resources
