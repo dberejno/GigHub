@@ -1,9 +1,8 @@
 ﻿using GigHub2.Models;
 using GigHub2.ViewModels;
+using Microsoft.AspNet.Identity;
 using System.Linq;
 using System.Web.Mvc;
-using Microsoft.AspNet.Identity;
-using System;
 
 namespace GigHub2.Controllers
 {
@@ -28,6 +27,7 @@ namespace GigHub2.Controllers
 
         [Authorize]
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public ActionResult Create(GigFormViewModel viewModel)
         {
             if (!ModelState.IsValid)
